@@ -39,7 +39,7 @@ export default function HomePage() {
           ¡Bienvenido a nuestro cuartel!
         </p>
 
-        {/* Menu Links */}
+        {/* Menu Section */}
         <div className="flex flex-col gap-4">
           <MenuCard
             href="/menus/menu_esq2.pdf"
