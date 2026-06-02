@@ -49,7 +49,7 @@ export default function HomePage() {
           />
 
           <MenuCard
-            href="/menus/menu_destilados.pdf"
+            href="/menus/destilados.pdf"
             icon={<Wine className="h-7 w-7 text-secondary" />}
             title="Menú Destilados"
             subtitle="Licores y cocteles premium"
