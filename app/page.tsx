@@ -42,21 +42,21 @@ export default function HomePage() {
         {/* Menu Links */}
         <div className="flex flex-col gap-4">
           <MenuCard
-            href="/menus/MENÚ ESQ2.pdf"
+            href="/menus/menu_esq2.pdf"
             icon={<UtensilsCrossed className="h-7 w-7 text-secondary" />}
             title="Menú Bebidas y Alimentos"
             subtitle="Platillos y bebidas"
           />
 
           <MenuCard
-            href="/menus/MENU_DESTILADOS.pdf"
+            href="/menus/menu_destilados.pdf"
             icon={<Wine className="h-7 w-7 text-secondary" />}
             title="Menú Destilados"
             subtitle="Licores y cocteles premium"
           />
 
           <MenuCard
-            href="/menus/lo-nuevo.pdf"
+            href="https://wingsarmy.mx/promociones/"
             icon={<Sparkles className="h-7 w-7 text-secondary" />}
             title="Lo Nuevo del Cuartel"
             subtitle="Novedades y promociones"
